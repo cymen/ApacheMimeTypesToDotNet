@@ -10,7 +10,7 @@ And is used per the permission at the top:
 
 The generated code looks like this:
 
-```csharp
+```c#
 sing System;
 using System.Collections.Generic;
 
