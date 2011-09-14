@@ -1,0 +1,3 @@
+Convert the Apache mime.types file to C# Dictionary<string, string> keyed by file extension.
+
+See ApacheMimeTYpes.cs for example output.
