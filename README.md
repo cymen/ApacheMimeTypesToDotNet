@@ -12,7 +12,7 @@ And is used per the permission at the top:
 
 The generated code looks like this:
 
-```c-sharp
+```c#
 using System;
 using System.Collections.Generic;
 
@@ -26,6 +26,6 @@ namespace ApacheMimeTypes
 			{ "3dml", "text/vnd.in3d.3dml" },
 			{ "3g2", "video/3gpp2" },
             ...
+```
 
 The full output is here: https://github.com/cymen/ApacheMimeTypesToDotNet/blob/master/ApacheMimeTypes.cs
-```
